@@ -46,3 +46,5 @@ crow:         live %234
 | Parsing                          | 94.4%      | 17/18 | x     |
 | Robustness                       | 97.1%      | 34/35 | x     |
 | End score                        | 95.2%      | 60/63 | x     |
+
+Beware of -42 Epitech students !!!
