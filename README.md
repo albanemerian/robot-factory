@@ -47,4 +47,6 @@ crow:         live %234
 | Robustness                       | 97.1%      | 34/35 | x     |
 | End score                        | 95.2%      | 60/63 | x     |
 
+Grade A medal
+
 Beware of -42 Epitech students !!!
